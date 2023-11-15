@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* int factorial  - function name
+* factorial  - function name
 * @n: parameter
 * Return: a given factorial
 */
