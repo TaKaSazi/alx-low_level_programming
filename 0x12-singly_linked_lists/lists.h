@@ -1,12 +1,12 @@
-#ifndef LINKED
-#define LINKED
+#ifndef LISTS_H
+#define LISTS_H
 
 #include <stdlib.h>
 #include <stddef.h>
 #include <string.h>
 
 /**
- * struct list_s - simoly linked list
+ * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
  * @len: length of the string
  * @next: points to the next node
